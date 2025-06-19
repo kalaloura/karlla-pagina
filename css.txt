@@ -1,5 +1,5 @@
 body {
-    background-color: lightpink;
+    background-color: lightblue;
     font-family: Arial, sans-serif;
     margin: 20px;
 }
@@ -27,7 +27,7 @@ button {
 }
 
 button:hover {
-    background-color: lightblue;
+    background-color: yellow;
 }
 
 ul {
@@ -46,7 +46,7 @@ table {
     width: 100%;
     margin-top: 15px;
     border-collapse: collapse;
-    background-color: #ffffff;
+    background-color: green;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -63,7 +63,7 @@ td {
 }
 
 a {
-    color: #1a0dab;
+    color: red;
     text-decoration: none;
     font-weight: bold;
 }
