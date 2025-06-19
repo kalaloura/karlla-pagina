@@ -1,5 +1,5 @@
 body {
-    background-color:#f9d9fa;
+    background-color: lightpink;
     font-family: Arial, sans-serif;
     margin: 20px;
 }
