@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-    color: #050505;
+    color: lightpink;
     text-align: center;
 }
 
@@ -27,7 +27,7 @@ button {
 }
 
 button:hover {
-    background-color: #bf22b5;
+    background-color: lightblue;
 }
 
 ul {
