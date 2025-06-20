@@ -1,4 +1,0 @@
-function mostrarMensagem() {
-    const mensagem = document.getElementById("mensagem");
-    mensagem.innerText = "Olá, Karlla! Boas-Vindas!";
-}
